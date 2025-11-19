@@ -1,0 +1,5 @@
+.DS_Store
+drugs-data-main/
+__pycache__/
+.vscode
+.env
