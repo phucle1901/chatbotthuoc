@@ -1,1 +1,6 @@
 Người dùng thích ăn đồ ngọt
+Người dùng dị ứng với penicillin
+Người dùng 65 tuổi, bị tiểu đường type 2
+Người dùng đang dùng thuốc huyết áp
+Người dùng cao huyết áp, tim mạch yếu
+Người dùng bị đau đầu
